@@ -103,7 +103,7 @@
 <a id="more"></a>
 <h2 id="从哪里开始"><a href="#从哪里开始" class="headerlink" title="从哪里开始"></a>从哪里开始</h2><p>首先，送大家一首歌吧，激励一下斗志，祝愿大家都能够早日刷新自己的技能树！</p>
 
-    <div id="aplayer-SSyWSrbs" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-cyhGkXeJ" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="35476048" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 <p>传统意义上的企业级应用开发，基本上包含C/S、B/S两部分。B/S这一块，一般也都是界面设计人员设计好软件的界面稿，开发人员则根据设计图，自行构建网站的外观，同时还要实现业务逻辑的编写。稍微高级点，采用MVC架构（Model-View-Controller），可以简单地实现部分界面与业务逻辑的分离，但是这些设计模式在现代高速发展的移动互联时代，显得有点效率低下。举例来说，近年来小程序的流行，要求软件开发快速高效的移植到各个客户端及平台下，传统PC网站、安卓应用、iOS应用、以及微信小程序、支付宝小程序、百度小程序等等各种类型的小程序不断推陈出新。要想快速的将开发的产品适配到各种类型终端中，开发人员面临的就不再是以前那种“一次开发，终身升级”的方式了，前后端分离的需求就越来越迫切。同时，C/S程序的开发也进入到了多元化的时代，除了硬件相关的行业以外，一般意义上的C/S程序，完全可以被HTML5和JavaScript取代。在这种形式下，我们需要学习什么知识才能适应这种趋势，是这一段时间我考虑的最多的问题。经过近一个月时间的恶补，我觉得，应该从JavaScript学起。</p>
@@ -163,11 +163,11 @@
 <span class="token function">greet</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>`, {onCompleteDelay: 500})
           .end();
     </script>
-<h2 id="测试echarts-hexo-tag-echarts3"><a href="#测试echarts-hexo-tag-echarts3" class="headerlink" title="测试echarts hexo-tag-echarts3"></a>测试echarts <a href="https://kchen.cc/2016/11/05/echarts-in-hexo/" target="_blank" rel="noopener">hexo-tag-echarts3</a></h2><div id="echarts5032" style="width: 85%;height: 400px;margin: 0 auto"></div>
+<h2 id="测试echarts-hexo-tag-echarts3"><a href="#测试echarts-hexo-tag-echarts3" class="headerlink" title="测试echarts hexo-tag-echarts3"></a>测试echarts <a href="https://kchen.cc/2016/11/05/echarts-in-hexo/" target="_blank" rel="noopener">hexo-tag-echarts3</a></h2><div id="echarts9233" style="width: 85%;height: 400px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/3.8.0/echarts.common.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts5032'));
+        var myChart = echarts.init(document.getElementById('echarts9233'));
         // 指定图表的配置项和数据
         var option = {
     tooltip : {
@@ -236,7 +236,7 @@
 <h2 id="测试影音播放器在Hexo网站中的使用方法"><a href="#测试影音播放器在Hexo网站中的使用方法" class="headerlink" title="测试影音播放器在Hexo网站中的使用方法"></a>测试影音播放器在Hexo网站中的使用方法</h2><p>影音播放应该是一个网站不可缺少的一部分了吧，所以特别开了一篇文章介绍如何在Hexo网站中使用影音播放器。</p>
 <h3 id="音频播放器hexo-tag-aplayer"><a href="#音频播放器hexo-tag-aplayer" class="headerlink" title="音频播放器hexo-tag-aplayer"></a>音频播放器<a href="https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md" target="_blank" rel="noopener">hexo-tag-aplayer</a></h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install --save hexo-tag-aplayer</span><br></pre></td></tr></table></figure>
 
-    <div id="aplayer-MBOEduEv" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-kNCirmve" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="77470" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"
     ></div>
 
@@ -257,12 +257,12 @@ src="https://v.qq.com/txp/iframe/player.html?vid=z3002bivh6u" scrolling="no" bor
 frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
 height: 100%; left: 0; top: 0;"> </iframe></div>
 
-<h4 id="插入-youku-视频"><a href="#插入-youku-视频" class="headerlink" title="插入 youku 视频"></a>插入 youku 视频</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;&lt;iframe </span><br><span class="line">src=&quot;http://player.youku.com/embed/XMzEwNjY0&quot; scrolling=&quot;no&quot; border=&quot;0&quot; </span><br><span class="line">frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;position: absolute; width: 100%; </span><br><span class="line">height: 100%; left: 0; top: 0;&quot;&gt; &lt;/iframe&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure>
+<h4 id="插入-youku-视频"><a href="#插入-youku-视频" class="headerlink" title="插入 youku 视频"></a>插入 youku 视频</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;&lt;iframe </span><br><span class="line">src=&quot;http://player.youku.com/embed/XMzEwNjY0&quot; scrolling=&quot;no&quot; border=&quot;0&quot; </span><br><span class="line">frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot; style=&quot;position: absolute; width: 100%; </span><br><span class="line">height: 100%; left: 0; top: 0;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure>
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe 
 src="http://player.youku.com/embed/XMzEwNjY0" scrolling="no" border="0" 
 frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; 
-height: 100%; left: 0; top: 0;"> </iframe></div>
+height: 100%; left: 0; top: 0;"></iframe></div>
 
 <h3 id="NexT主题修改记录"><a href="#NexT主题修改记录" class="headerlink" title="NexT主题修改记录"></a>NexT主题修改记录</h3><h4 id="界面调整"><a href="#界面调整" class="headerlink" title="界面调整"></a>界面调整</h4><p><strong>去除头像和帖子图片的外框</strong><br>修改 NexT 目录下 <code>source/css/_custom/custom.styl</code> 文件<br>增加内容：</p>
 <figure class="highlight css"><table><tr><td class="code"><pre><span class="line">// Custom styles.</span><br><span class="line"><span class="selector-class">.site-author-image</span> &#123;</span><br><span class="line">  <span class="attribute">border</span>: none;</span><br><span class="line">&#125;</span><br><span class="line">    </span><br><span class="line"><span class="selector-class">.posts-expand</span> <span class="selector-class">.post-body</span> <span class="selector-tag">img</span> &#123;</span><br><span class="line">  <span class="attribute">border</span>: none;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
